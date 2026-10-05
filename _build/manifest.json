@@ -1,0 +1,8 @@
+{
+  "inputHash": "d3e2d89a1225",
+  "builtAt": "2026-10-05T15:02:24.501Z",
+  "slug": "revolution",
+  "warnings": [
+    "Neutral brand colour: dark-ground accent falls back to near-white. Provide a secondary colour for a tinted accent."
+  ]
+}
